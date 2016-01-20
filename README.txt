@@ -30,10 +30,10 @@ Create 5 references to strings and store values in them
 
 Create a hashtable of size 4 to test collisions and ability to not overfill
 
-Print current load; should be: 	     		    0
+Print current load; should be: 	     		  0
 insert an element
-Print current load; should be:			    .25	
-get and print element; should be: 		    Andrew
+Print current load; should be:			  .25	
+get and print element; should be: 		  Andrew
 insert second element
 get and print 2nd element; should be:		    Andy
 Print current load; should be:			    .50
